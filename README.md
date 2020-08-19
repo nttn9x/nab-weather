@@ -20,7 +20,7 @@ cd front-end && yarn install && yarn start
 cd back-end && yarn install && yarn start
 ```
 
-The app need to run frond/backend to be able to work
+The app need to run front/back-end to be able to work
 
 # front-end
 ## Available Scripts
