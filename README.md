@@ -13,7 +13,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 
 ```
-cd front-end && yarn install && yarn start && cd .. && cd back-end && yarn install && yarn start
+cd front-end && yarn install && yarn start
+```
+
+```
+cd back-end && yarn install && yarn start
 ```
 
 # front-end
