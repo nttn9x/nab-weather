@@ -26,6 +26,8 @@ app.all("*", (req: any, res: any, next: any) => {
   next();
 });
 
+app.use(express.static("public"));
+
 app.use("/api", routes);
 
 app.use((err: any, req: any, res: any, next: any) => {
